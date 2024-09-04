@@ -3,13 +3,31 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*Headers*/
 .header--main{
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header--quartery {
+    font-size: 21px;
+    color: gray
+}
+/*Links*/
 .link_sub-header{
     font-size: 16px;
     color: aquamarine;
+}
+/*footer*/
+.footer--copyright{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
 }
